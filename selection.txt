@@ -1,0 +1,6 @@
+selection: 
+# process of picking a gene, char, string from the given variables, DNA, etc. this could be random or could be set as nonrandom
+mutation:
+# the change of one DNA, one string, the change could happen on a big scale, the whole thing changes, or a smaller scale, only parts of the thing is _catch_warnings_with_records
+crossover:
+# mutation of 2 or over DNAs, strings, by exchanging their elements
